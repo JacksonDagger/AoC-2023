@@ -1,2 +1,9 @@
-# AoC-2023
-My submissions for Advent of Code 2023
+# Advent of Code 2023
+
+My work for the 2023 [Advent of Code competition.](https://adventofcode.com) My completion times and finishing places are listed below.  
+
+It should be noted that the code here represents my attempts to code as fast as possible. The lack of commenting and the butchering of some data structures is a reflection of my attempts at speedcoding, not how I generally develop.  
+
+| Day | Part 1 time | Part 1 rank | Part 2 time | Part 2 rank |
+| --- | ----------- | ----------- | ----------- | ----------- |
+| 1   | 00:04:34    | 1768        | 00:13:54    | 847         |
