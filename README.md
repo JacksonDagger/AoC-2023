@@ -7,3 +7,4 @@ It should be noted that the code here represents my attempts to code as fast as 
 | Day | Part 1 time | Part 1 rank | Part 2 time | Part 2 rank |
 | --- | ----------- | ----------- | ----------- | ----------- |
 | 1   | 00:04:34    | 1768        | 00:13:54    | 847         |
+| 2   | 00:13:45    | 2465        | 00:18:18    | 2367        |
